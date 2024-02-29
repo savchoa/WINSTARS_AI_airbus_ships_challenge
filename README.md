@@ -92,6 +92,14 @@ And got this curves of loss and dice score:
 
 ![dice_score](readme_images/dice_score_result.png)
 
+**Original image**
+
+![original_image](output/results/original.png)
+
+**Predicted mask**
+
+![predicted_mask](output/results/segmented.png)
+
 ### Ways to improve results:
 
 1. As it was shown in EDA.ipynb, one of the problems with this task is severe data imbalance. 
